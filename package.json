@@ -1,0 +1,14 @@
+{
+  "name": "nodejs-docker",
+  "version": "0.0.1",
+  "description": "Sample NodeJS docker file ",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
